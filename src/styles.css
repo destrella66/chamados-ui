@@ -1,0 +1,62 @@
+/* You can add global styles to this file, and also import other style files */
+
+/*.po-menu-header-container-logo {
+    margin-top: 1rem;
+}*/
+
+.po-menu-logo{
+    margin: auto;
+    max-height: 60px;
+}
+
+#usuario-container > .po-container {
+    background-color: #0057A8 !important;
+}
+
+#usuario-info {
+    color: #fff;
+}
+
+#avatar {
+    margin: auto;
+}
+
+#avatar > .po-avatar {
+    height: 94px;
+    width: 94px;
+    border: solid 4px #bfd7ee;
+}
+
+.po-menu-filter {
+    box-shadow: none;
+}
+
+.po-tab-button-active {
+    background-color: var(--color-brand-01-lightest);
+}
+
+.po-modal-body {
+    padding: var(--spacing-md) var(--spacing-md) var(--spacing-md) var(--spacing-md)
+}
+
+.po-page-login-highlight-text .po-font-display {
+    max-width:none;
+    background-color: #0356a485;
+}
+
+.po-page-login-highlight-text > div {
+    background-color: #0356a485;
+    max-width: none;
+    padding: 5rem ;
+    text-justify: bold !important;   
+}
+
+.po-page-background-main-logo-image {
+	max-height: 114px;
+	max-width: none !important;
+	top: 124px; 
+}
+
+#dash > div:nth-child(1){
+    background-color: #e6e6e6 !important;
+}
